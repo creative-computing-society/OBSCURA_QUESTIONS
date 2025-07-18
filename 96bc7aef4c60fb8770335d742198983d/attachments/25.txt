@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 49
+Date: Thu, 17 Jul 2025 14:00:00 GMT
+Server: Apache
+X-Flag: brixelCTF{headerhunt}
+
+<html><body>Hello from CoreNode-7</body></html>

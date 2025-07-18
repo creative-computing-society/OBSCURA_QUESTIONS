@@ -1,0 +1,4 @@
+GET /secret-page HTTP/1.1
+Host: echo.brixelctf.net
+User-Agent: brixelCTF{askwho?}
+Accept: */*
